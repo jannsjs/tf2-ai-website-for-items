@@ -1,0 +1,11 @@
+[
+  { "name": "Mann Co. Supply Crate Key", "quality": 6 },
+  { "name": "Earbuds", "quality": 6 },
+  { "name": "Team Captain", "quality": 5, "priceindex": 13, "effect": "Burning Flames" },
+  { "name": "Towering Pillar of Hats", "quality": 5, "priceindex": 14, "effect": "Scorching Flames" },
+  { "name": "Batter's Helmet", "quality": 5, "priceindex": 17, "effect": "Sunbeams" },
+  { "name": "Summer Shades", "quality": 5, "priceindex": 15, "effect": "Searing Plasma" },
+  { "name": "Bill's Hat", "quality": 6 },
+  { "name": "Golden Frying Pan", "quality": 6 },
+  { "name": "Lugermorph", "quality": 3 }
+]

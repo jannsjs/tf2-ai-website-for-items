@@ -1,0 +1,15 @@
+{
+  "name": "tf2-hv-tracker",
+  "version": "1.0.0",
+  "description": "Track Team Fortress 2 high-value item prices in refined metal, keys and USD, with a JSON API and a web UI.",
+  "type": "module",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "keywords": ["tf2", "team-fortress-2", "backpack.tf", "prices", "api"],
+  "license": "MIT"
+}
